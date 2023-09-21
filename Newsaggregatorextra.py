@@ -3,8 +3,8 @@
 from sys import argv
 import requests 
 
-API_KEY = '37c74f5c24484c279a3a966d813a6a07' 
-#api key 37c74f5c24484c279a3a966d813a6a07 for newsapi.org
+API_KEY = 'key(private key here)' 
+#api key for newsapi.org
 
 URL = ('https://newsapi.org/v2/top-headlines?')
 
